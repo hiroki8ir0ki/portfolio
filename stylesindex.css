@@ -1,0 +1,95 @@
+
+.example img {
+    width: 100%;
+}  
+  
+  
+.example p {
+    text-align: center;
+    color: white;
+    font-weight: bold; 
+    font-size: 2em;
+    font-family :Quicksand, sans-serif;
+    
+}
+.example {
+    text-align: center; 
+}
+.mozi2 {
+    font-weight: 100;
+}
+.orange
+{
+    text-align: center;
+    padding: 200px;
+}
+
+
+.haikei{
+    text-align: center; 
+    background-color: skyblue;
+    height: 500px;
+    
+} 
+.maru { 
+    height:200px;
+    width:200px;
+    border-radius:50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 100px; 
+  
+
+    text-align:center;
+    background-color: white; 
+}
+
+.maru1
+{
+    height:200px;
+    width:200px;
+    border-radius:50%;
+    background-color: white; 
+}
+
+.in{
+    margin-left: 50px;
+}
+
+.aa
+{
+   padding-left:500px;
+   padding-top: 100px;
+   text-align: center;
+}
+.pao {
+    padding-left:500px;
+   padding-top: 100px;
+   text-align: center;
+}
+.card-text-a {
+    text-align: down; 
+}
+.f {
+    width:100vw;
+}
+.ee {
+    height: 500px;
+    width:100%;
+}
+.haikei2 {
+    text-align: center; 
+    background-color: blue; 
+    height: 500px; 
+}
+.fluid {
+    width: 100%;
+    background-image: url(portfolio-4.jpg);
+}
+.tt {
+    background-color: white; 
+}
+.tt p {
+    font-weight: bold; 
+}  
